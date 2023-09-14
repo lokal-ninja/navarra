@@ -1,5 +1,5 @@
 ---
 title: "FurgoKaravaning"
-url: /oricain/furgokaravaning/
+url: /oricain/furgokaravaning-calle-v/
 shop: reparación de automóviles
 ---

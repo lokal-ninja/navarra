@@ -1,5 +1,5 @@
 ---
 title: "Antigüedades Eduardo Peral"
-url: /estella-lizarra/antigueedades-eduardo-peral/
+url: /estella-lizarra/antiguedades-eduardo-peral/
 shop: antigüedades
 ---

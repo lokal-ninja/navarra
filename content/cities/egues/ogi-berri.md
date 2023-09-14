@@ -1,5 +1,5 @@
 ---
 title: "Ogi Berri"
-url: /eguees/ogi-berri/
+url: /egues/ogi-berri/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antigüedades Peral"
-url: /estella/antigueedades-peral/
+url: /estella/antiguedades-peral/
 shop: antigüedades
 ---

@@ -1,6 +1,6 @@
 ---
 title: Egüés
-url: /eguees/
+url: /egues/
 latitude: 42.815
 longitude: -1.607
 ---

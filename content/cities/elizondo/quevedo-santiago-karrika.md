@@ -1,5 +1,5 @@
 ---
 title: "Quevedo"
-url: /elizondo/quevedo/
+url: /elizondo/quevedo-santiago-karrika/
 shop: regalo
 ---

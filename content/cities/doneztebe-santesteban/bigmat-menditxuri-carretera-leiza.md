@@ -1,5 +1,5 @@
 ---
 title: "BigMat Menditxuri"
-url: /doneztebe-santesteban/bigmat-menditxuri/
+url: /doneztebe-santesteban/bigmat-menditxuri-carretera-leiza/
 shop: mayorista
 ---

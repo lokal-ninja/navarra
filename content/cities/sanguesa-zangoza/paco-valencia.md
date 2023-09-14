@@ -1,5 +1,5 @@
 ---
 title: "Paco Valencia"
-url: /sangueesa-zangoza/paco-valencia/
+url: /sanguesa-zangoza/paco-valencia/
 shop: peluquería
 ---
