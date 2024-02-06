@@ -1,5 +1,5 @@
 ---
 title: "Cycla"
-url: /pamplona/cycla/
+url: /ansoain/cycla/
 shop: bicicleta
 ---
