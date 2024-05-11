@@ -1,6 +1,6 @@
 ---
-title: Pamplona / Iruña
+title: Pamplona/Iruña
 url: /pamplona-iruna/
-latitude: 42.806
-longitude: -1.635
+latitude: 42.827
+longitude: -1.651
 ---
