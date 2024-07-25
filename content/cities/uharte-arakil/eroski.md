@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /zizur-mayor-zizur-nagusia/eroski/
+url: /uharte-arakil/eroski/
 shop: supermercado
 ---
