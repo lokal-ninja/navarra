@@ -1,5 +1,5 @@
 ---
 title: "Arkupe"
 url: /irurita/arkupe/
-shop: chocolate
+shop: Schokolade
 ---

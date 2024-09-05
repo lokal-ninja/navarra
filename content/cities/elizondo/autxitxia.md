@@ -1,5 +1,5 @@
 ---
 title: "Autxitxia"
 url: /elizondo/autxitxia/
-shop: queso
+shop: Käse
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charo Napal"
 url: /pamplona-iruna/charo-napal/
-shop: peluquería
+shop: Friseur
 ---

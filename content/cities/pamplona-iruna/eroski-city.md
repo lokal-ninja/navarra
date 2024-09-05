@@ -1,5 +1,5 @@
 ---
 title: "Eroski City"
 url: /pamplona-iruna/eroski-city/
-shop: comodidad
+shop: Lebensmittel
 ---

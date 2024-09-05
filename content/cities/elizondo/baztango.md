@@ -1,5 +1,5 @@
 ---
 title: "Baztango"
 url: /elizondo/baztango/
-shop: frutería
+shop: Gemüse & Obst
 ---

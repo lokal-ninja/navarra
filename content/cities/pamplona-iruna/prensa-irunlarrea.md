@@ -1,5 +1,5 @@
 ---
 title: "Prensa Irunlarrea"
 url: /pamplona-iruna/prensa-irunlarrea/
-shop: quiosco
+shop: Zeitungen
 ---

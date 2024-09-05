@@ -1,5 +1,5 @@
 ---
 title: "Sobrino"
 url: /elizondo/sobrino/
-shop: lotería
+shop: Lotterie
 ---

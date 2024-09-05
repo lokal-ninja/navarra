@@ -1,5 +1,5 @@
 ---
 title: "Kimetz Belardenda"
 url: /doneztebe-santesteban/kimetz-belardenda/
-shop: herbolario
+shop: Kräuter
 ---

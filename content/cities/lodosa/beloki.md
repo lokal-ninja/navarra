@@ -1,5 +1,5 @@
 ---
 title: "Beloki"
 url: /lodosa/beloki/
-shop: peluquería
+shop: Friseur
 ---

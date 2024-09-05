@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /san-martin-de-unx/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

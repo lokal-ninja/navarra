@@ -1,5 +1,5 @@
 ---
 title: "Bidashare S.L."
 url: /villava-atarrabia/bidashare-s-l/
-shop: supermercado
+shop: Supermarkt
 ---

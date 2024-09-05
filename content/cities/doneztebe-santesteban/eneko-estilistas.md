@@ -1,5 +1,5 @@
 ---
 title: "Eneko Estilistas"
 url: /doneztebe-santesteban/eneko-estilistas/
-shop: cosméticos
+shop: Kosmetik
 ---

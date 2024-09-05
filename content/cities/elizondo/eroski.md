@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /elizondo/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

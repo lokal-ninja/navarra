@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /elizondo/dia/
-shop: supermercado
+shop: Supermarkt
 ---

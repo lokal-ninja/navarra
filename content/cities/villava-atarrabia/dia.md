@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /villava-atarrabia/dia/
-shop: supermercado
+shop: Supermarkt
 ---

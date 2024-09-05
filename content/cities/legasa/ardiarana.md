@@ -1,5 +1,5 @@
 ---
 title: "Ardiarana"
 url: /legasa/ardiarana/
-shop: queso
+shop: Käse
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Malkorra"
 url: /elizondo/malkorra-c-santiago-17/
-shop: panadería
+shop: Bäckerei
 ---

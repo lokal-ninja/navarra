@@ -1,5 +1,5 @@
 ---
 title: "Compramostucoche pamplona"
 url: /pamplona-iruna/compramostucoche-pamplona/
-shop: coche
+shop: Autohaus
 ---

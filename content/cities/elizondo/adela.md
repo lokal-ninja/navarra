@@ -1,5 +1,5 @@
 ---
 title: "Adela"
 url: /elizondo/adela/
-shop: supermercado
+shop: Supermarkt
 ---

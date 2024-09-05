@@ -1,5 +1,5 @@
 ---
 title: "Ugari"
 url: /bera/ugari/
-shop: supermercado
+shop: Supermarkt
 ---

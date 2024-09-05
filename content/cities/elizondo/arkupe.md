@@ -1,5 +1,5 @@
 ---
 title: "Arkupe"
 url: /elizondo/arkupe/
-shop: chocolate
+shop: Schokolade
 ---

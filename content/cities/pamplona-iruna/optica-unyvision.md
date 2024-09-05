@@ -1,5 +1,5 @@
 ---
 title: "Óptica UnyVision"
 url: /pamplona-iruna/optica-unyvision/
-shop: óptico
+shop: Optiker
 ---

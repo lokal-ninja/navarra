@@ -1,5 +1,5 @@
 ---
 title: "Frutería Romero"
 url: /estella-lizarra/fruteria-romero/
-shop: frutería
+shop: Gemüse & Obst
 ---

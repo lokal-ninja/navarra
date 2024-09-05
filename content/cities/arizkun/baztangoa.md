@@ -1,5 +1,5 @@
 ---
 title: "Baztangoa"
 url: /arizkun/baztangoa/
-shop: general
+shop: Allgemein
 ---
