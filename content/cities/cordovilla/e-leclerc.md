@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /cordovilla/e-leclerc/
-shop: Supermarkt
+shop: supermercado
 ---

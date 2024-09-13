@@ -1,5 +1,5 @@
 ---
 title: "Talleres Romeo"
 url: /sartaguda/talleres-romeo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

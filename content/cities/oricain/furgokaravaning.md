@@ -1,5 +1,5 @@
 ---
 title: "FurgoKaravaning"
 url: /oricain/furgokaravaning/
-shop: Autohaus
+shop: coche
 ---

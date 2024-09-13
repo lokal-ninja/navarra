@@ -1,5 +1,5 @@
 ---
 title: "Gabriel"
 url: /sartaguda/gabriel/
-shop: Metzgerei
+shop: carnicero
 ---

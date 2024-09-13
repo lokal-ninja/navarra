@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Grupo Irache"
 url: /sartaguda/tanatorio-grupo-irache/
-shop: Bestattungen
+shop: directores de funerarias
 ---

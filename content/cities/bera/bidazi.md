@@ -1,5 +1,5 @@
 ---
 title: "Bidazi"
 url: /bera/bidazi/
-shop: Bioladen
+shop: alimentación sana
 ---

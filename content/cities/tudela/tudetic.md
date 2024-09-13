@@ -1,5 +1,5 @@
 ---
 title: "Tudetic"
 url: /tudela/tudetic/
-shop: Autoteile
+shop: piezas de automóviles
 ---

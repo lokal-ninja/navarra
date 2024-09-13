@@ -1,5 +1,5 @@
 ---
 title: "Esarte"
 url: /elizondo/esarte/
-shop: Metzgerei
+shop: carnicero
 ---

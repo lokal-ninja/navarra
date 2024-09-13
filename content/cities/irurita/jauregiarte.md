@@ -1,5 +1,5 @@
 ---
 title: "Jauregiarte"
 url: /irurita/jauregiarte/
-shop: Reisebüro
+shop: agencia de viajes
 ---

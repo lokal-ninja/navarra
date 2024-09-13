@@ -1,5 +1,5 @@
 ---
 title: "Txirrinta Bikes"
 url: /tafalla/txirrinta-bikes/
-shop: Fahrrad
+shop: bicicleta
 ---

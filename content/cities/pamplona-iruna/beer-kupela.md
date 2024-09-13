@@ -1,5 +1,5 @@
 ---
 title: "Beer Kupela"
 url: /pamplona-iruna/beer-kupela/
-shop: Spirituosen
+shop: alcohol
 ---

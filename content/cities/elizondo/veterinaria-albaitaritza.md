@@ -1,5 +1,5 @@
 ---
 title: "veterinaria Albaitaritza"
 url: /elizondo/veterinaria-albaitaritza/
-shop: Tiere
+shop: mascotas
 ---

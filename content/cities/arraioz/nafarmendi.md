@@ -1,5 +1,5 @@
 ---
 title: "Nafarmendi"
 url: /arraioz/nafarmendi/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

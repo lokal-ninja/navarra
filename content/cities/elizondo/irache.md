@@ -1,5 +1,5 @@
 ---
 title: "Irache"
 url: /elizondo/irache/
-shop: Bestattungen
+shop: directores de funerarias
 ---

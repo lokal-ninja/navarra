@@ -1,5 +1,5 @@
 ---
 title: "Ochoa"
 url: /lumbier/ochoa/
-shop: Bäckerei
+shop: panadería
 ---

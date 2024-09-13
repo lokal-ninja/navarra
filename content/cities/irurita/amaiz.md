@@ -1,5 +1,5 @@
 ---
 title: "Amaiz"
 url: /irurita/amaiz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

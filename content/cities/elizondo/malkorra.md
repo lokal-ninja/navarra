@@ -1,5 +1,5 @@
 ---
 title: "Malkorra"
 url: /elizondo/malkorra/
-shop: Konditorei
+shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ezker okindegia"
 url: /burgui-burgi/ezker-okindegia/
-shop: Bäckerei
+shop: panadería
 ---

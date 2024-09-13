@@ -1,5 +1,5 @@
 ---
 title: "Blanca Eslava"
 url: /lumbier/blanca-eslava/
-shop: Tabak
+shop: tabaco
 ---

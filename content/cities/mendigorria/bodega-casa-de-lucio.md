@@ -1,5 +1,5 @@
 ---
 title: "Bodega Casa de Lucio"
 url: /mendigorria/bodega-casa-de-lucio/
-shop: Spirituosen
+shop: alcohol
 ---

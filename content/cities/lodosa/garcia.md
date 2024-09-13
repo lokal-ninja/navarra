@@ -1,5 +1,5 @@
 ---
 title: "García"
 url: /lodosa/garcia/
-shop: Konditorei
+shop: pastelería
 ---

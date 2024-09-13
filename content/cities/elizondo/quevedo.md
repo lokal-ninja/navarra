@@ -1,5 +1,5 @@
 ---
 title: "Quevedo"
 url: /elizondo/quevedo/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

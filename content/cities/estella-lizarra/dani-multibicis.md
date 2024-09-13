@@ -1,5 +1,5 @@
 ---
 title: "Dani multibicis"
 url: /estella-lizarra/dani-multibicis/
-shop: Fahrrad
+shop: bicicleta
 ---

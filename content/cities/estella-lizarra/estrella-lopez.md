@@ -1,5 +1,5 @@
 ---
 title: "Estrella López"
 url: /estella-lizarra/estrella-lopez/
-shop: Friseur
+shop: peluquería
 ---

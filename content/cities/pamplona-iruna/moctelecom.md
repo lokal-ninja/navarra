@@ -1,5 +1,5 @@
 ---
 title: "moctelecom"
 url: /pamplona-iruna/moctelecom/
-shop: Handy
+shop: teléfono móvil
 ---

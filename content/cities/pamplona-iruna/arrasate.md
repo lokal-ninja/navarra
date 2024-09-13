@@ -1,5 +1,5 @@
 ---
 title: "Arrasate"
 url: /pamplona-iruna/arrasate/
-shop: Bäckerei
+shop: panadería
 ---

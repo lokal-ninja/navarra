@@ -1,5 +1,5 @@
 ---
 title: "Panadería Gastón"
 url: /villava-atarrabia/panaderia-gaston/
-shop: Bäckerei
+shop: panadería
 ---

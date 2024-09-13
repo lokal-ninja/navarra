@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /cintruenigo/netto/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cafeteria Trigo Dulce"
 url: /tudela/cafeteria-trigo-dulce/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Granja"
 url: /huarte-uharte/la-granja/
-shop: Motorrad
+shop: motocicleta
 ---

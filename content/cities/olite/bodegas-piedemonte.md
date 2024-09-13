@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Piedemonte"
 url: /olite/bodegas-piedemonte/
-shop: Wein
+shop: vino
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Irache"
 url: /lumbier/tanatorio-irache/
-shop: Bestattungen
+shop: directores de funerarias
 ---

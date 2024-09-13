@@ -1,5 +1,5 @@
 ---
 title: "Macario"
 url: /lodosa/macario/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

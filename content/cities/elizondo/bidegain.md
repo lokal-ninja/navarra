@@ -1,5 +1,5 @@
 ---
 title: "Bidegain"
 url: /elizondo/bidegain/
-shop: Fisch
+shop: marisco
 ---

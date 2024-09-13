@@ -1,5 +1,5 @@
 ---
 title: "Axular"
 url: /elizondo/axular/
-shop: Schreibwaren
+shop: material de oficina
 ---

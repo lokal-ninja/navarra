@@ -1,5 +1,5 @@
 ---
 title: "Joxenea Alimentación Ecológica"
 url: /pamplona-iruna/joxenea-alimentacion-ecologica/
-shop: Lebensmittel
+shop: comodidad
 ---

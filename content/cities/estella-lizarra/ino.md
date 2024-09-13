@@ -1,5 +1,5 @@
 ---
 title: "INO"
 url: /estella-lizarra/ino/
-shop: Schreibwaren
+shop: material de oficina
 ---

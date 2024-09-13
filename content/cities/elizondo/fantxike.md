@@ -1,5 +1,5 @@
 ---
 title: "Fantxike"
 url: /elizondo/fantxike/
-shop: Kleidung
+shop: ropa
 ---

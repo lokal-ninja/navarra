@@ -1,5 +1,5 @@
 ---
 title: "Carrefour viajes"
 url: /pamplona-iruna/carrefour-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

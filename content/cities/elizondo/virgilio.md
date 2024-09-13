@@ -1,5 +1,5 @@
 ---
 title: "Virgilio"
 url: /elizondo/virgilio/
-shop: Schuhe
+shop: zapatos
 ---

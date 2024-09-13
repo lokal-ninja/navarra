@@ -1,5 +1,5 @@
 ---
 title: "Artesiaga"
 url: /elizondo/artesiaga/
-shop: Schreibwaren
+shop: material de oficina
 ---

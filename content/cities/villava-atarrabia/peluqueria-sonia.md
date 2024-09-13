@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Sonia"
 url: /villava-atarrabia/peluqueria-sonia/
-shop: Friseur
+shop: peluquería
 ---

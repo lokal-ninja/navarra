@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Cirbonera"
 url: /cintruenigo/bodegas-cirbonera/
-shop: Spirituosen
+shop: alcohol
 ---

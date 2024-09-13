@@ -1,5 +1,5 @@
 ---
 title: "Citroen Sansiñena"
 url: /elizondo/citroen-sansinena/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

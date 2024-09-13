@@ -1,5 +1,5 @@
 ---
 title: "IKEMEVOY"
 url: /tudela/ikemevoy/
-shop: Reisebüro
+shop: agencia de viajes
 ---
