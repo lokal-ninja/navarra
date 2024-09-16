@@ -1,11 +1,11 @@
 id: 1076014870
-type: way
+type: node
 latitude: 42.34669
 longitude: -1.65364
 postcode: "31380"
 city: Caparroso
-street: "N-121"
-housenumber: 
-phone: "+34 948730083"
+street: N-121
+housenumber: ""
+phone: +34 948730083
 opening_hours: ""
 website: ""

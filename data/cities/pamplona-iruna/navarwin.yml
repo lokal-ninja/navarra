@@ -4,8 +4,8 @@ latitude: 42.8091
 longitude: -1.65816
 postcode: "31008"
 city: Pamplona/Iruña
-street: "Avenida Pío XII"
-housenumber: 21
-phone: "+34 948252102"
-opening_hours: "Mo-Fr 09:30-13:45, 16:30-19:45; Sa 10:30-13:30"
-website: "https://navarwin.es/"
+street: Avenida Pío XII
+housenumber: "21"
+phone: +34 948252102
+opening_hours: Mo-Fr 09:30-13:45, 16:30-19:45; Sa 10:30-13:30
+website: https://navarwin.es/

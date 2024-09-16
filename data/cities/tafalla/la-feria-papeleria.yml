@@ -4,8 +4,8 @@ latitude: 42.52813
 longitude: -1.67528
 postcode: "31300"
 city: Tafalla
-street: "Calle Mayor"
-housenumber: 32
-phone: "+34 948 70 46 20"
-opening_hours: "Mo-Fr 09:30-13:30, 17:00-20:00; Sa 10:00-13:30"
-website: "http://comerciotafalla.com/folder-la-feria/"
+street: Calle Mayor
+housenumber: "32"
+phone: +34 948 70 46 20
+opening_hours: Mo-Fr 09:30-13:30, 17:00-20:00; Sa 10:00-13:30
+website: http://comerciotafalla.com/folder-la-feria/

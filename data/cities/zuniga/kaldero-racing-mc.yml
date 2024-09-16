@@ -1,11 +1,11 @@
 id: 974073842
-type: way
+type: node
 latitude: 42.69308
 longitude: -2.30001
 postcode: "31284"
 city: Zúñiga
-street: "Plaza del Frontón"
-housenumber: 6
+street: Plaza del Frontón
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

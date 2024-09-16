@@ -1,11 +1,11 @@
 id: 490561003
-type: way
+type: node
 latitude: 42.42512
 longitude: -2.08059
 postcode: "31580"
 city: Lodosa
-street: "Del Aire"
-housenumber: 25
+street: Del Aire
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

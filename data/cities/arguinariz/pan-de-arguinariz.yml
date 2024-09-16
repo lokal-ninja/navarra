@@ -4,8 +4,8 @@ latitude: 42.74205
 longitude: -1.86125
 postcode: "31174"
 city: Arguiñariz
-street: "Calle Mayor"
-housenumber: 1
-phone: "+34 948 39 01 04"
-opening_hours: "Mo-Th,Su 09:00-14:00,16:00-18:00; Fr 09:00-13:00; Sa off"
-website: "https://www.pandearguinariz.com/"
+street: Calle Mayor
+housenumber: "1"
+phone: +34 948 39 01 04
+opening_hours: Mo-Th,Su 09:00-14:00,16:00-18:00; Fr 09:00-13:00; Sa off
+website: https://www.pandearguinariz.com/

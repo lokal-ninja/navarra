@@ -1,11 +1,11 @@
 id: 813937084
-type: way
+type: node
 latitude: 43.1355
 longitude: -1.67946
 postcode: "31740"
 city: Doneztebe/Santesteban
-street: "Carretera Leiza"
-housenumber: 55
-phone: "+34 948 450354"
+street: Carretera Leiza
+housenumber: "55"
+phone: +34 948 450354
 opening_hours: ""
-website: "https://arincar.com/"
+website: https://arincar.com/

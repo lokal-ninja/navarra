@@ -1,11 +1,11 @@
 id: 490602394
-type: way
+type: node
 latitude: 42.42083
 longitude: -2.07034
 postcode: "31580"
 city: Lodosa
-street: "Comercial"
-housenumber: 1
+street: Comercial
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

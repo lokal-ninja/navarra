@@ -4,8 +4,8 @@ latitude: 42.80627
 longitude: -1.65775
 postcode: "31007"
 city: Pamplona
-street: "Calle Fuente del Hierro"
-housenumber: 31
-phone: "+34 948 17 71 32"
-opening_hours: "Mo-Fr 09:00-14:00,16:30-20:00"
-website: "https://www.colordigital.es/"
+street: Calle Fuente del Hierro
+housenumber: "31"
+phone: +34 948 17 71 32
+opening_hours: Mo-Fr 09:00-14:00,16:30-20:00
+website: https://www.colordigital.es/

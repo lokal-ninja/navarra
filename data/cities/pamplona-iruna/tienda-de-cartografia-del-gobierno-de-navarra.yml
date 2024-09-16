@@ -4,8 +4,8 @@ latitude: 42.81516
 longitude: -1.643
 postcode: "31001"
 city: Pamplona/Iruña
-street: "Avenida San Ignacio"
-housenumber: 3
-phone: "+34 848 427441"
+street: Avenida San Ignacio
+housenumber: "3"
+phone: +34 848 427441
 opening_hours: ""
-website: "http://www.navarra.es/appsext/TiendaCartografia/default.aspx"
+website: http://www.navarra.es/appsext/TiendaCartografia/default.aspx

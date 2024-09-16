@@ -1,11 +1,11 @@
 id: 305569573
-type: way
+type: node
 latitude: 43.13502
 longitude: -1.67945
 postcode: "31740"
 city: Doneztebe/Santesteban
-street: "carretera Leiza"
-housenumber: 53
-phone: "+34 948 450305"
+street: carretera Leiza
+housenumber: "53"
+phone: +34 948 450305
 opening_hours: ""
-website: "https://menditxuri.bigmat.es/site"
+website: https://menditxuri.bigmat.es/site

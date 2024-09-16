@@ -1,11 +1,11 @@
 id: 457971797
-type: way
+type: node
 latitude: 43.18009
 longitude: -1.45586
 postcode: "31714"
 city: Erratzu
-street: "Herriko Plaza"
-housenumber: 4
+street: Herriko Plaza
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

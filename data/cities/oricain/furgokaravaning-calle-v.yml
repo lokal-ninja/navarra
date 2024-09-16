@@ -1,11 +1,11 @@
 id: 646576129
-type: way
+type: node
 latitude: 42.84816
 longitude: -1.6245
 postcode: "31194"
 city: Oricain
-street: "Calle V"
-housenumber: 4
+street: Calle V
+housenumber: "4"
 phone: "+34948317839"
-opening_hours: "Mo-Fr 07:00-15:00"
-website: "https://furgokaravaning.es"
+opening_hours: Mo-Fr 07:00-15:00
+website: https://furgokaravaning.es

@@ -4,8 +4,8 @@ latitude: 42.80715
 longitude: -1.67276
 postcode: "31008"
 city: Pamplona/Iruña
-street: "Calle Benjamín de Tudela"
-housenumber: 10
-phone: "+34 948278940;+34 948070555"
-opening_hours: "Mo-Th 10:00-13:30, 17:00-19:30; Fr 10:00-13:30"
-website: "https://moctelecom.com/"
+street: Calle Benjamín de Tudela
+housenumber: "10"
+phone: +34 948278940;+34 948070555
+opening_hours: Mo-Th 10:00-13:30, 17:00-19:30; Fr 10:00-13:30
+website: https://moctelecom.com/

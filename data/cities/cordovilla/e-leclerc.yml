@@ -1,11 +1,11 @@
 id: 374969548
-type: way
+type: node
 latitude: 42.78293
 longitude: -1.63201
 postcode: "31191"
 city: Cordovilla
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.e-leclerc.es/tiendas/pamplona"
+website: https://www.e-leclerc.es/tiendas/pamplona
