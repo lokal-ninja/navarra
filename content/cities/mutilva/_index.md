@@ -1,6 +1,6 @@
 ---
 title: Mutilva
 url: /mutilva/
-latitude: 42.786
-longitude: -1.63
+latitude: 42.79
+longitude: -1.626
 ---
