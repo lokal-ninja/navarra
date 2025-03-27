@@ -2,5 +2,5 @@
 title: Sartaguda
 url: /sartaguda/
 latitude: 42.382
-longitude: -2.056
+longitude: -2.058
 ---
