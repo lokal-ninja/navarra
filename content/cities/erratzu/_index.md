@@ -1,6 +1,6 @@
 ---
 title: Erratzu
 url: /erratzu/
-latitude: 43.181
-longitude: -1.455
+latitude: 43.175
+longitude: -1.402
 ---
