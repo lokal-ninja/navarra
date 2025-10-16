@@ -1,6 +1,6 @@
 ---
 title: Cascante
 url: /cascante/
-latitude: 41.999
-longitude: -1.673
+latitude: 41.994
+longitude: -1.676
 ---
