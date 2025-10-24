@@ -1,6 +1,6 @@
 ---
 title: Bera
 url: /bera/
-latitude: 43.281
-longitude: -1.683
+latitude: 43.275
+longitude: -1.691
 ---
