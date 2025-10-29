@@ -1,5 +1,5 @@
 ---
-title: "Automóviles isiegas"
+title: "Automóviles Isiegas"
 url: /pamplona-iruna/automoviles-isiegas/
 shop: coche
 ---
