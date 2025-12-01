@@ -1,6 +1,6 @@
 ---
 title: Pamplona
 url: /pamplona/
-latitude: 42.808
-longitude: -1.612
+latitude: 42.806
+longitude: -1.64
 ---
