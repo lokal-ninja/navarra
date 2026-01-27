@@ -1,6 +1,6 @@
 ---
 title: Olite / Erriberri
 url: /olite-erriberri/
-latitude: 42.482
-longitude: -1.652
+latitude: 42.479
+longitude: -1.649
 ---
