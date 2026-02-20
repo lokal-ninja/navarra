@@ -2,5 +2,5 @@
 title: Estella
 url: /estella/
 latitude: 42.671
-longitude: -2.026
+longitude: -2.029
 ---
