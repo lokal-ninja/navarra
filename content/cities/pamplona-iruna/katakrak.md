@@ -1,5 +1,5 @@
 ---
 title: "Katakrak"
-url: /pamplona/katakrak/
+url: /pamplona-iruna/katakrak/
 shop: libros
 ---

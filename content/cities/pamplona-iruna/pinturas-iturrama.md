@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Iturrama"
-url: /pamplona/pinturas-iturrama/
+url: /pamplona-iruna/pinturas-iturrama/
 shop: artesanía
 ---

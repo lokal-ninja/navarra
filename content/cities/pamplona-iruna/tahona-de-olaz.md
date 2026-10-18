@@ -1,5 +1,5 @@
 ---
 title: "Tahona de Olaz"
-url: /pamplona/tahona-de-olaz/
+url: /pamplona-iruna/tahona-de-olaz/
 shop: panadería
 ---

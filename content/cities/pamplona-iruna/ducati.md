@@ -1,5 +1,5 @@
 ---
 title: "Ducati"
-url: /pamplona/ducati/
+url: /pamplona-iruna/ducati/
 shop: motocicleta
 ---

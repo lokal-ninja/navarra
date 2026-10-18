@@ -1,5 +1,5 @@
 ---
 title: "Walden"
-url: /pamplona/walden/
+url: /pamplona-iruna/walden/
 shop: libros
 ---

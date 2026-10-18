@@ -1,5 +1,5 @@
 ---
 title: "Txalaparta"
-url: /pamplona/txalaparta/
+url: /pamplona-iruna/txalaparta/
 shop: libros
 ---

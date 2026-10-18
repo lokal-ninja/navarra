@@ -1,5 +1,5 @@
 ---
 title: "Saltwood Sounds"
-url: /pamplona/saltwood-sounds/
+url: /aranguren/saltwood-sounds/
 shop: hifi
 ---

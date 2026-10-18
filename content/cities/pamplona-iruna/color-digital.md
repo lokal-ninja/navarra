@@ -1,5 +1,5 @@
 ---
 title: "Color Digital"
-url: /pamplona/color-digital/
+url: /pamplona-iruna/color-digital/
 shop: copyshop
 ---
